@@ -2,8 +2,7 @@
 
 ### OverviewOverview
 
-This project is a network visualization tool for Windows, built with the vis-network and d3 libraries. Users can input node and edge details, customize node colors and size , and view the network on a webpage.
-
+Designed for Windows, this tool offers a comprehensive solution for network visualization, harnessing the power of the vis-network and d3 libraries. It allows users to define nodes and edges, tailor node aesthetics by adjusting colors and sizes, and then showcase the network interactively on a web interface.
 
 
 
