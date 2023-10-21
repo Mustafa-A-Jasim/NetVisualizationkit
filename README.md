@@ -12,7 +12,7 @@ Unzip the repository into your desired directory.
 * Enter the desired port number or use the default (5002).
 * Open a web browser and navigate to http://localhost:<port_number>/.
 * Input node and edge data in the provided fields.
-* Click on the "Visualize" button (or equivalent) to see the network visualization.
+* Click on the "Visualize" button to see the network visualization.
 
 ### Edge Format:
 In this project, edges are represented using the following format:
