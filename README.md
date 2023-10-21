@@ -8,7 +8,7 @@ This project is a network visualization tool for Windows, built with the vis-net
 
 
 ### How to Use
-* Start the lask server by running Visualizationkit.exe.
+* Start the server by running Visualizationkit.exe.
 * Enter the desired port number or use the default (5002).
 * Open a web browser and navigate to http://localhost:<port_number>/.
 * Input node and edge data in the provided fields.
