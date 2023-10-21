@@ -4,7 +4,8 @@
 
 Designed for Windows, this tool offers a comprehensive solution for network visualization, harnessing the power of the vis-network and d3 libraries. It allows users to define nodes and edges, tailor node aesthetics by adjusting colors and sizes, and then showcase the network interactively on a web interface.
 
-
+### Installation
+Unzip the repository into your desired directory.
 
 ### How to Use
 * Start the server by running Visualizationkit.exe.
