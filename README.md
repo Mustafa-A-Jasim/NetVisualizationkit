@@ -14,6 +14,10 @@ Unzip the repository into your desired directory.
 * Input node and edge data in the provided fields.
 * Click on the "Visualize" button to see the network visualization.
 
+Screenshot
+---------
+![screenshot](Screenshot.png)
+
 ### Edge Format:
 In this project, edges are represented using the following format:
 
