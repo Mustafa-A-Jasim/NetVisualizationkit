@@ -18,6 +18,8 @@ Screenshot
 ---------
 ![screenshot](Screenshot.png)
 
+![screenshot](Capture.PNG)
+
 ### Edge Format:
 In this project, edges are represented using the following format:
 
